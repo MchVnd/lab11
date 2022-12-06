@@ -84,4 +84,4 @@ Dato un oggetto `IMap<TKey1, TKey2, TValue> map` e due chiavi `k1` di tipo `TKey
 
 Scopo dell'esercizio è implementare la classe `Map2D<TKey1, TKey2, TValue>`.
 Il test contenuto nel progetto `2-IndexersTests` tenta di chiarire il comportamento atteso per una classe che implementi `IMap2D`.
-L'esercizio si può considerare concluso quando tutti i test terminano con successo.
+L'esercizio si può considerare concluso quando tutti i test terminano con successo..
